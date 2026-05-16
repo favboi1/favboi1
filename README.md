@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @favboi1
-- 👀 I’m interested in Programing ...
-- 🌱 I’m currently learning Computer Application..
-- 💞️ I’m looking to collaborate on website design...
-- 📫 How to reach me via email: ngabix2002@gmail.com...
+Hi, I'm @favboil 👋
 
-<!---
-favboi1/favboi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔐 Aspiring SOC Analyst | Cybersecurity Enthusiast
+
+- 💻 I’m interested in Cybersecurity, Networking, and Ethical Hacking
+- 🐧 ai have graduates  Computer Applications with a focus on Cyber Security
+- 📊 I’m building skills in Linux, Networking, and SOC analysis basics
+- 🤝 I’m looking to collaborate on cybersecurity projects and open-source security tools
+- 📚 I’m actively learning how to analyze logs, detect threats, and understand system security
+
+📫 How to reach me:
+Email: ngabix2002@gmail.com
